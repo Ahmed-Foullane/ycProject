@@ -22,6 +22,7 @@ nav_itmes.forEach((e)=>{
   })
 })
 
+
 // Access the Images
 let slideImages = document.querySelectorAll('img');
 // Access the next and prev buttons
